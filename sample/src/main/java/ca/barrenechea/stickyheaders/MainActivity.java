@@ -29,6 +29,7 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 import androidx.viewpager.widget.ViewPager;
+
 import ca.barrenechea.stickyheaders.ui.DoubleHeaderFragment;
 import ca.barrenechea.stickyheaders.ui.InlineDoubleHeaderFragment;
 import ca.barrenechea.stickyheaders.ui.InlineStickyHeaderFragment;
